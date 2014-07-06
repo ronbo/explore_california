@@ -40,8 +40,6 @@ Thumbs.db
 ###############
 
 tempfile.txt
-*.zip
-*.gz
 assets/photoshop/
 assets/videos/
 !asstes/videos/tour_*.mp4
