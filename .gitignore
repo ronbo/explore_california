@@ -35,3 +35,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Other files #
+###############
+
+tempfile.txt
+*.zip
+*.gz
+assets/photoshop/
+assets/videos/
+!asstes/videos/tour_*.mp4
